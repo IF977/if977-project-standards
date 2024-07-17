@@ -7,7 +7,7 @@ Este repositório contém os seguintes templates.
 
 ## Project Model Canvas
 
-O [Project Model Canvas](/templates/Project_Model_Canvas_Template.md)) é uma ferramenta de gerenciamento de projetos que simplifica o planejamento e a execução de projetos através de uma abordagem visual. Baseado no conceito do Business Model Canvas, que é utilizado para planejar modelos de negócios de forma estruturada, o Project Model Canvas permite que gestores de projetos organizem e visualizem os elementos principais de um projeto de maneira fácil e intuitiva.
+O [Project Model Canvas](/templates/Project_Model_Canvas_Template.md) é uma ferramenta de gerenciamento de projetos que simplifica o planejamento e a execução de projetos através de uma abordagem visual. Baseado no conceito do Business Model Canvas, que é utilizado para planejar modelos de negócios de forma estruturada, o Project Model Canvas permite que gestores de projetos organizem e visualizem os elementos principais de um projeto de maneira fácil e intuitiva.
 
 ### Elementos do Project Model Canvas
 
@@ -36,7 +36,7 @@ Essa ferramenta é particularmente útil em ambientes ágeis e para equipes que 
 
 ### Estudos de Caso
 
-Alguns exemplos foram desenvolvidos para ilustrar o [Project Model Canvas Template](/templates/Project_Model_Canvas_Template.md)) em ação:
+Alguns exemplos foram desenvolvidos para ilustrar o [Project Model Canvas Template](/templates/Project_Model_Canvas_Template.md) em ação:
 
 - [Sistema de Gerenciamento de Reservas para Restaurante](/examples/Restaurant_Reservation_System_Project_Model_Canvas.md)
 - [Sistema de Assistência à Construção de Planos de Estudos](/examples/Study_Plan_System_Project_Model_Canvas.md)
