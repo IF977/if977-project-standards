@@ -79,6 +79,8 @@ As [histórias do usuário devem seguir o acrônimo INVEST](/templates/User_Stor
 5. **Small (Pequena)**: A história deve ser pequena o suficiente para ser completada em um único sprint. Se for muito grande, deve ser quebrada em histórias menores.
 6. **Testable (Testável)**: Deve ser possível testar a história, ou seja, definir critérios de aceitação claros que permitam verificar se a funcionalidade foi implementada corretamente.
 
+Para mais informações, acesse o [exemplo de história do usuário segndo o critério INVEST](/examples/INVEST_User_Stories_Example.md).
+
 #### Critérios SMART
 
 As [histórias do usuário também podem ser avaliadas usando o acrônimo SMART](/templates/User_Stories_SMART_Template.md), que significa:
@@ -88,6 +90,8 @@ As [histórias do usuário também podem ser avaliadas usando o acrônimo SMART]
 3. **Achievable (Atingível)**: A história deve ser realista e possível de ser completada dentro das limitações do time e do sprint.
 4. **Relevant (Relevante)**: A história deve ser relevante para os objetivos do projeto e proporcionar valor ao usuário.
 5. **Time-bound (Limitada no Tempo)**: Deve ser possível completar a história dentro de um período de tempo específico, geralmente um sprint.
+
+Para mais informações, acesse o [exemplo de história do usuário segndo o critério SMART](/examples/SMART_User_Stories_Example.md).
 
 #### Perguntas para Avaliação
 
