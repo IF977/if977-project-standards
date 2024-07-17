@@ -1,10 +1,6 @@
 
 # Nome do Projeto
 
-[![version](https://img.shields.io/visual-studio-marketplace/v/IF977.if977-project-standards)](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
-[![updated](https://img.shields.io/visual-studio-marketplace/last-updated/IF977.if977-project-standards)](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
-[![release](https://img.shields.io/visual-studio-marketplace/release-date/IF977.if977-project-standards)](https://vsmarketplacebadge.apphb.com/downloads-short/James-Yu.latex-workshop.svg)
-
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/IF977/if977-project-standards.svg)](https://github.com/IF977/if977-project-standards/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/IF977/if977-project-standards.svg)](https://github.com/IF977/if977-project-standards/pulls)
