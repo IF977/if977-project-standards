@@ -7,7 +7,7 @@ Repositório com templates para criação e execução do projeto na disciplina 
 3. [Project Model Canvas](https://github.com/IF977/if977-standard-project/tree/main#project-model-canvas)
 4. [User Stories](https://github.com/IF977/if977-standard-project/tree/main#user-stories)
 5. [Cerimônias do Scrum](https://github.com/IF977/if977-standard-project/tree/main#cerim%C3%B4nias-do-scrum)
-6. [Reunião de Postmortem](https://github.com/IF977/if977-standard-project/tree/main#reuni%C3%A3o-de-postmortem)
+6. [Reunião de Postmortem](#reuni%C3%A3o-de-postmortem)
 7. [Pull Requests](https://github.com/IF977/if977-standard-project/tree/main#pull-requests)
 
 ## README do repositório do projeto
