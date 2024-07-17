@@ -1,4 +1,4 @@
-# if977-standard-project
+# Padrões para Projetos na IF977
 
 Repositório com templates para criação e execução do projeto na disciplina (IF977) Engenharia de Software, BSI, CIn/UFPE.
 
