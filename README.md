@@ -2,13 +2,13 @@
 
 Repositório com templates para criação e execução do projeto na disciplina (IF977) Engenharia de Software, BSI, CIn/UFPE.
 
-1. [README](https://github.com/IF977/if977-standard-project/tree/main#readme-do-reposit%C3%B3rio-do-projeto)
-2. [Ata de Reunião](https://github.com/IF977/if977-standard-project/tree/main#ata-de-reuni%C3%A3o)
-3. [Project Model Canvas](https://github.com/IF977/if977-standard-project/tree/main#project-model-canvas)
-4. [User Stories](https://github.com/IF977/if977-standard-project/tree/main#user-stories)
-5. [Cerimônias do Scrum](https://github.com/IF977/if977-standard-project/tree/main#cerim%C3%B4nias-do-scrum)
+1. [README](#readme-do-reposit%C3%B3rio-do-projeto)
+2. [Ata de Reunião](#ata-de-reuni%C3%A3o)
+3. [Project Model Canvas](#project-model-canvas)
+4. [User Stories](#user-stories)
+5. [Cerimônias do Scrum](#cerim%C3%B4nias-do-scrum)
 6. [Reunião de Postmortem](#reuni%C3%A3o-de-postmortem)
-7. [Pull Requests](https://github.com/IF977/if977-standard-project/tree/main#pull-requests)
+7. [Pull Requests](#pull-requests)
 
 ## README do repositório do projeto
 
@@ -40,7 +40,7 @@ Um bom arquivo [README](/templates/README_Template.md) é essencial para qualque
 
 Essas práticas ajudam a garantir que seu projeto seja acolhedor e acessível para novos usuários e contribuidores, além de proporcionar uma visão clara de como o projeto funciona e é mantido.
 
-([Voltar ao topo](https://github.com/IF977/if977-standard-project/tree/main#if977-standard-project))
+([Voltar ao topo](#padr%C3%B5es-para-projetos-na-if977))
 
 ## Ata de reunião
 
@@ -81,7 +81,7 @@ A [documentação adequada das reuniões](/templates/Ata_Reuniao_Template.md) é
 
 A criação e manutenção de atas de reunião são práticas essenciais que trazem inúmeros benefícios para a organização. Elas não apenas promovem a transparência e a responsabilidade, mas também ajudam a equipe a manter-se organizada, eficiente e alinhada com os objetivos estabelecidos. Ao disponibilizar um template para atas de reunião, você está facilitando esse processo e contribuindo para a cultura de documentação e melhoria contínua.
 
-([Voltar ao topo](https://github.com/IF977/if977-standard-project/tree/main#if977-standard-project))
+([Voltar ao topo](#padr%C3%B5es-para-projetos-na-if977))
 
 ## Project Model Canvas
 
@@ -120,7 +120,7 @@ Alguns exemplos foram desenvolvidos para ilustrar o [Project Model Canvas Templa
 - [Sistema de Assistência à Construção de Planos de Estudos](/examples/Study_Plan_System_Project_Model_Canvas.md)
 - [Aplicativo de Finanças Pessoais](/examples/Personal_Finance_App_Project_Model_Canvas.md)
 
-([Voltar ao topo](https://github.com/IF977/if977-standard-project/tree/main#if977-standard-project))
+([Voltar ao topo](#padr%C3%B5es-para-projetos-na-if977))
 
 ## User Stories
 
@@ -192,7 +192,7 @@ Revise as histórias regularmente com o time de desenvolvimento e os stakeholder
 
 Aplicando esses critérios e perguntas, você pode garantir que suas histórias do usuário sejam bem definidas, valiosas e prontas para serem implementadas com sucesso.
 
-([Voltar ao topo](https://github.com/IF977/if977-standard-project/tree/main#if977-standard-project))
+([Voltar ao topo](#padr%C3%B5es-para-projetos-na-if977))
 
 ## Cerimônias do Scrum
 
@@ -220,7 +220,7 @@ As cerimônias do Scrum são práticas fundamentais para garantir a organizaçã
 
 Essas cerimônias ajudam a manter a transparência, inspeção e adaptação constantes, que são os pilares do Scrum. Se precisar de mais detalhes ou exemplos específicos sobre alguma dessas cerimônias, estou à disposição!
 
-([Voltar ao topo](https://github.com/IF977/if977-standard-project/tree/main#if977-standard-project))
+([Voltar ao topo](#padr%C3%B5es-para-projetos-na-if977))
 
 ## Reunião de Postmortem 
 
@@ -279,7 +279,7 @@ Este template ajuda a garantir que a reunião de postmortem seja estruturada, fo
 
 > No contexto do Scrum, a cerimônia que mais se assemelha à reunião de postmortem e pode, em muitos casos, substituir a necessidade de uma reunião de postmortem é a [Sprint Retrospective (Retrospectiva da Sprint)](/templates/Sprint_Retrospective_Template.md). 
 
-([Voltar ao topo](https://github.com/IF977/if977-standard-project/tree/main#if977-standard-project))
+([Voltar ao topo](#padr%C3%B5es-para-projetos-na-if977))
 
 ## Pull Requests
 
@@ -320,8 +320,8 @@ Para que os pull requests sejam realmente eficazes, é importante seguir algumas
 - **Passos para Teste**: Detalhe os passos necessários para testar ou reproduzir as mudanças, facilitando o trabalho dos revisores.
 - **Áreas Impactadas**: Liste as partes do aplicativo que serão afetadas pelas mudanças, ajudando a identificar possíveis problemas.
 
-([Voltar ao topo](https://github.com/IF977/if977-standard-project/tree/main#if977-standard-project))
-
 ### Conclusão
 
 Os pull requests são uma prática essencial no desenvolvimento de software moderno, promovendo a colaboração, a revisão de código e a garantia de qualidade. Utilizar um template bem estruturado para pull requests pode facilitar a comunicação e a eficiência da equipe, assegurando que todas as mudanças sejam cuidadosamente revisadas e integradas de maneira segura e controlada.
+
+([Voltar ao topo](#padr%C3%B5es-para-projetos-na-if977))
