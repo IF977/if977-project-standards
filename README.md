@@ -1,6 +1,14 @@
 # if977-standard-project
 
-Repositório com templates para criação e execução do projeto na disciplina (IF977) Engenharia de Software, BSI, CIn/UFPE
+Repositório com templates para criação e execução do projeto na disciplina (IF977) Engenharia de Software, BSI, CIn/UFPE.
+
+1. [README](https://github.com/IF977/if977-standard-project/tree/main#readme-do-reposit%C3%B3rio-do-projeto)
+2. [Ata de Reunião](https://github.com/IF977/if977-standard-project/tree/main#ata-de-reuni%C3%A3o)
+3. [Project Model Canvas](https://github.com/IF977/if977-standard-project/tree/main#project-model-canvas)
+4. [User Stories](https://github.com/IF977/if977-standard-project/tree/main#user-stories)
+5. [Cerimônias do Scrum](https://github.com/IF977/if977-standard-project/tree/main#cerim%C3%B4nias-do-scrum)
+6. [Reunião de Postmortem](https://github.com/IF977/if977-standard-project/tree/main#reuni%C3%A3o-de-postmortem)
+7. [Pull Requests](https://github.com/IF977/if977-standard-project/tree/main#pull-requests)
 
 ## README do repositório do projeto
 
@@ -31,6 +39,8 @@ Um bom arquivo [README](/templates/README_Template.md) é essencial para qualque
 12. **Estado do Projeto**: Se o projeto estiver em uma fase inicial, em desenvolvimento ativo, ou se for um projeto maduro, informe isso aos usuários. Isso pode definir expectativas quanto à estabilidade e completude do projeto.
 
 Essas práticas ajudam a garantir que seu projeto seja acolhedor e acessível para novos usuários e contribuidores, além de proporcionar uma visão clara de como o projeto funciona e é mantido.
+
+([Voltar ao topo](https://github.com/IF977/if977-standard-project/tree/main#if977-standard-project))
 
 ## Ata de reunião
 
@@ -71,6 +81,8 @@ A [documentação adequada das reuniões](/templates/Ata_Reuniao_Template.md) é
 
 A criação e manutenção de atas de reunião são práticas essenciais que trazem inúmeros benefícios para a organização. Elas não apenas promovem a transparência e a responsabilidade, mas também ajudam a equipe a manter-se organizada, eficiente e alinhada com os objetivos estabelecidos. Ao disponibilizar um template para atas de reunião, você está facilitando esse processo e contribuindo para a cultura de documentação e melhoria contínua.
 
+([Voltar ao topo](https://github.com/IF977/if977-standard-project/tree/main#if977-standard-project))
+
 ## Project Model Canvas
 
 O [Project Model Canvas](/templates/Project_Model_Canvas_Template.md) é uma ferramenta de gerenciamento de projetos que simplifica o planejamento e a execução de projetos através de uma abordagem visual. Baseado no conceito do Business Model Canvas, que é utilizado para planejar modelos de negócios de forma estruturada, o Project Model Canvas permite que gestores de projetos organizem e visualizem os elementos principais de um projeto de maneira fácil e intuitiva.
@@ -107,6 +119,8 @@ Alguns exemplos foram desenvolvidos para ilustrar o [Project Model Canvas Templa
 - [Sistema de Gerenciamento de Reservas para Restaurante](/examples/Restaurant_Reservation_System_Project_Model_Canvas.md)
 - [Sistema de Assistência à Construção de Planos de Estudos](/examples/Study_Plan_System_Project_Model_Canvas.md)
 - [Aplicativo de Finanças Pessoais](/examples/Personal_Finance_App_Project_Model_Canvas.md)
+
+([Voltar ao topo](https://github.com/IF977/if977-standard-project/tree/main#if977-standard-project))
 
 ## User Stories
 
@@ -178,6 +192,8 @@ Revise as histórias regularmente com o time de desenvolvimento e os stakeholder
 
 Aplicando esses critérios e perguntas, você pode garantir que suas histórias do usuário sejam bem definidas, valiosas e prontas para serem implementadas com sucesso.
 
+([Voltar ao topo](https://github.com/IF977/if977-standard-project/tree/main#if977-standard-project))
+
 ## Cerimônias do Scrum
 
 As cerimônias do Scrum são práticas fundamentais para garantir a organização e a eficiência do processo de desenvolvimento ágil. Aqui estão as principais cerimônias existentes na metodologia Scrum:
@@ -203,6 +219,8 @@ As cerimônias do Scrum são práticas fundamentais para garantir a organizaçã
    - **Atividades**: O Product Owner e a equipe de desenvolvimento revisam e detalham os itens do backlog, esclarecendo dúvidas e quebrando histórias grandes em menores.
 
 Essas cerimônias ajudam a manter a transparência, inspeção e adaptação constantes, que são os pilares do Scrum. Se precisar de mais detalhes ou exemplos específicos sobre alguma dessas cerimônias, estou à disposição!
+
+([Voltar ao topo](https://github.com/IF977/if977-standard-project/tree/main#if977-standard-project))
 
 ## Reunião de Postmortem 
 
@@ -261,6 +279,8 @@ Este template ajuda a garantir que a reunião de postmortem seja estruturada, fo
 
 > No contexto do Scrum, a cerimônia que mais se assemelha à reunião de postmortem e pode, em muitos casos, substituir a necessidade de uma reunião de postmortem é a [Sprint Retrospective (Retrospectiva da Sprint)](/templates/Sprint_Retrospective_Template.md). 
 
+([Voltar ao topo](https://github.com/IF977/if977-standard-project/tree/main#if977-standard-project))
+
 ## Pull Requests
 
 Os [pull requests (PRs)](/templates/Pull_Request_Template.md) são uma parte fundamental do fluxo de trabalho de desenvolvimento de software colaborativo, especialmente em projetos que utilizam sistemas de controle de versão como o Git. Eles desempenham um papel crucial na revisão de código, na colaboração entre equipes e na garantia da qualidade do código antes de sua integração no branch principal.
@@ -299,6 +319,8 @@ Para que os pull requests sejam realmente eficazes, é importante seguir algumas
 - **Notas de Deploy**: Forneça informações sobre qualquer alteração necessária no processo de deploy, como migrações de banco de dados.
 - **Passos para Teste**: Detalhe os passos necessários para testar ou reproduzir as mudanças, facilitando o trabalho dos revisores.
 - **Áreas Impactadas**: Liste as partes do aplicativo que serão afetadas pelas mudanças, ajudando a identificar possíveis problemas.
+
+([Voltar ao topo](https://github.com/IF977/if977-standard-project/tree/main#if977-standard-project))
 
 ### Conclusão
 
