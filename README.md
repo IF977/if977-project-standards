@@ -1,7 +1,6 @@
 # if977-standard-project
-Repositório com templates para criação e execução do projeto na disciplina (IF977) Engenharia de Software, BSI, CIn/UFPE
 
-Este repositório contém os seguintes templates.
+Repositório com templates para criação e execução do projeto na disciplina (IF977) Engenharia de Software, BSI, CIn/UFPE
 
 ## README do repositório do projeto
 
