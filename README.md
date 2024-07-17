@@ -38,6 +38,10 @@ Essa ferramenta é particularmente útil em ambientes ágeis e para equipes que 
 
 Alguns exemplos foram desenvolvidos para ilustrar o [Project Model Canvas Template](/templates/Project_Model_Canvas_Template.md)) em ação:
 
-- [Sistema de Gerenciamento de Reservas para Restaurante](/examples/Restaurant_Reservation_System_Case_Study.md)
-- Sistema de Assistência à Construção de Planos de Estudos
-- Aplicativo de Finanças Pessoais
+- [Sistema de Gerenciamento de Reservas para Restaurante](/examples/Restaurant_Reservation_System_Project_Model_Canvas.md)
+- [Sistema de Assistência à Construção de Planos de Estudos](/examples/Study_Plan_System_Project_Model_Canvas.md)
+- [Aplicativo de Finanças Pessoais](/examples/Personal_Finance_App_Project_Model_Canvas.md)
+
+## User Stories
+
+
