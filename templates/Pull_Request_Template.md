@@ -1,52 +1,50 @@
 ## Status
-**READY/IN DEVELOPMENT/HOLD**
+**PRONTO/EM DESENVOLVIMENTO/EM ESPERA**
 
-## Migrations
-**YES | NO**
+## Migrações
+**SIM | NÃO**
 
-## Description
-Provide a clear and concise description of the pull request. Explain the problem this PR solves or the feature it adds.
+## Descrição
+Forneça uma descrição clara e concisa do pull request. Explique o problema que este PR resolve ou a funcionalidade que ele adiciona.
 
-## Related PRs
-List related PRs against other branches:
+## PRs Relacionados
+Liste PRs relacionados em outros branches:
 
 branch | PR
 ------ | ------
-other_pr_production | [link]()
-other_pr_master | [link]()
+outro_pr_producao | [link]()
+outro_pr_master | [link]()
 
-## ToDos
-- [ ] Tests
-- [ ] Documentation
+## Tarefas
+- [ ] Testes
+- [ ] Documentação
 
-## Deploy Notes
-Notes regarding the deployment of the contained work. These should include any database migrations, new environment variables, or other relevant information.
+## Notas de Deploy
+Notas sobre a implantação do trabalho contido. Estas devem incluir quaisquer migrações de banco de dados, novas variáveis de ambiente ou outras informações relevantes.
 
-## Steps to Test or Reproduce
-Outline the steps to test or reproduce the PR here:
+## Passos para Testar ou Reproduzir
+Descreva os passos para testar ou reproduzir o PR aqui:
 
 ```sh
 git pull --prune
-git checkout <feature_branch>
+git checkout <branch_da_feature>
 bundle install
 rails server
 ```
 
-1. [First step]
-2. [Second step]
-3. [Additional steps as needed]
+1. [Primeiro passo]
+2. [Segundo passo]
+3. [Passos adicionais conforme necessário]
 
-## Impacted Areas in Application
+## Áreas Impactadas no Aplicativo
+Liste os componentes gerais do aplicativo que este PR afetará:
 
-List general components of the application that this PR will affect:
+* [Componente 1]
+* [Componente 2]
+* [Componentes adicionais]
 
-* [Component 1]
-* [Component 2]
-* [Additional components]
+## Capturas de Tela (se aplicável)
+Se houver alterações visuais, inclua capturas de tela mostrando o antes e o depois.
 
-## Screenshots (if applicable)
-
-If there are visual changes, please include screenshots showing the before and after.
-
-## Additional Notes
-Any additional information or context that reviewers might need to know.
+## Notas Adicionais
+Qualquer informação adicional ou contexto que os revisores possam precisar saber.
