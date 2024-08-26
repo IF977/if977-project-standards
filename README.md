@@ -325,3 +325,65 @@ Para que os pull requests sejam realmente eficazes, é importante seguir algumas
 Os pull requests são uma prática essencial no desenvolvimento de software moderno, promovendo a colaboração, a revisão de código e a garantia de qualidade. Utilizar um template bem estruturado para pull requests pode facilitar a comunicação e a eficiência da equipe, assegurando que todas as mudanças sejam cuidadosamente revisadas e integradas de maneira segura e controlada.
 
 ([Voltar ao topo](#padr%C3%B5es-para-projetos-na-if977))
+
+## Documentação de Arquitetura de Software - C4 Model
+
+O **[C4 Model](/templates/Software_Architecture_Documentation_C4_Model_Template.md)** é uma maneira estruturada de visualizar e documentar a arquitetura de software, desenvolvida por Simon Brown. Ele é particularmente útil porque permite representar a arquitetura em diferentes níveis de abstração, facilitando a comunicação tanto com técnicos quanto com não técnicos.
+
+### O que é o C4 Model?
+
+O C4 Model é composto por quatro níveis de diagramas:
+
+1. **Diagrama de Contexto (Context Diagram)**:
+   - **Objetivo:** Fornece uma visão geral de alto nível do sistema, mostrando como ele interage com os usuários (atores externos) e outros sistemas. 
+   - **Aplicação:** É útil para comunicar a arquitetura do sistema para stakeholders que não são técnicos, como gerentes ou clientes.
+
+2. **Diagrama de Container (Container Diagram)**:
+   - **Objetivo:** Detalha os principais containers de software do sistema, como aplicações web, bancos de dados, serviços, etc., e como eles interagem entre si.
+   - **Aplicação:** Este diagrama é ideal para desenvolvedores e arquitetos, pois mostra como os diferentes componentes do sistema se encaixam.
+
+3. **Diagrama de Componente (Component Diagram)**:
+   - **Objetivo:** Mostra a arquitetura interna de um container específico, detalhando os componentes que o compõem e suas interações.
+   - **Aplicação:** Esse diagrama ajuda a entender como as partes dentro de um container específico trabalham juntas.
+
+4. **Diagrama de Código (Code Diagram) - Opcional**:
+   - **Objetivo:** Foca no nível mais baixo de abstração, mostrando a estrutura interna do código (por exemplo, classes, módulos).
+   - **Aplicação:** Embora seja opcional, este diagrama pode ser útil para documentar partes complexas do código ou quando padrões específicos de design precisam ser destacados.
+
+### Boas Práticas para Utilizar o C4 Model
+
+1. **Comece pelo alto nível**:
+   - Inicie sempre com o diagrama de contexto para fornecer uma visão geral antes de mergulhar nos detalhes. Isso ajuda a todos os envolvidos a compreenderem o "quadro geral" antes de se aprofundar nos detalhes técnicos.
+
+2. **Mantenha a simplicidade**:
+   - Não sobrecarregue os diagramas com detalhes desnecessários. O objetivo é comunicar a arquitetura de forma clara e eficiente. Use apenas os elementos essenciais para cada nível de diagrama.
+
+3. **Consistência é chave**:
+   - Use uma nomenclatura consistente e padrões visuais em todos os diagramas. Isso facilita a leitura e a compreensão, especialmente quando a documentação é extensa.
+
+4. **Documente as decisões arquiteturais**:
+   - Além dos diagramas, registre as decisões importantes que guiaram a arquitetura, incluindo as justificativas e possíveis trade-offs. Isso é vital para o entendimento do porquê de certas escolhas.
+
+5. **Use o C4 Model como uma ferramenta de comunicação**:
+   - O C4 Model é uma ferramenta poderosa para facilitar a comunicação entre diferentes stakeholders. Certifique-se de adaptar o nível de detalhe de acordo com o público-alvo (técnico ou não técnico).
+
+6. **Itere e evolua os diagramas**:
+   - A arquitetura de software não é estática. Revise e atualize os diagramas conforme o projeto evolui para refletir mudanças e melhorias na arquitetura.
+
+7. **Integre com outras documentações**:
+   - Combine o C4 Model com outras práticas de documentação, como a documentação de APIs ou requisitos, para criar uma visão mais completa do sistema.
+
+8. **Use ferramentas apropriadas**:
+   - Existem várias ferramentas que suportam a criação de diagramas C4 (como Structurizr, PlantUML, etc.). Escolha uma que facilite a manutenção e a atualização dos diagramas ao longo do tempo.
+
+### Conclusão
+
+O C4 Model é uma abordagem prática e eficaz para documentar a arquitetura de software em diferentes níveis de abstração. Ele ajuda a criar uma documentação que é acessível para todos os envolvidos no projeto, desde desenvolvedores até stakeholders não técnicos. Quando utilizado corretamente, o C4 Model melhora significativamente a comunicação, facilita a compreensão da arquitetura e suporta a evolução contínua do sistema.
+
+### Links adicionais
+
+- [The C4 model for visualising software architecture](https://c4model.com/): Context, Containers, Components, and Code
+- [O modelo C4 de documentação para Arquitetura de Software](https://www.infoq.com/br/articles/C4-architecture-model/)
+- [Structurizr](https://structurizr.com/): Software architecture models as code
+
+([Voltar ao topo](#padr%C3%B5es-para-projetos-na-if977))
