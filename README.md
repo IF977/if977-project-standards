@@ -10,6 +10,7 @@ Repositório com templates para criação e execução do projeto na disciplina 
 6. [Reunião de Postmortem](#reuni%C3%A3o-de-postmortem)
 7. [Pull Requests](#pull-requests)
 8. [Documentação de Arquitetura de Software - C4 Model](#documenta%C3%A7%C3%A3o-de-arquitetura-de-software---c4-model)
+9. Documentação de APIs
 
 ## README do repositório do projeto
 
@@ -386,5 +387,39 @@ O C4 Model é uma abordagem prática e eficaz para documentar a arquitetura de s
 - [The C4 model for visualising software architecture](https://c4model.com/): Context, Containers, Components, and Code
 - [O modelo C4 de documentação para Arquitetura de Software](https://www.infoq.com/br/articles/C4-architecture-model/)
 - [Structurizr](https://structurizr.com/): Software architecture models as code
+
+([Voltar ao topo](#padr%C3%B5es-para-projetos-na-if977))
+
+## Documentação de APIs (Application Programming Interfaces)
+
+[**Documentação de APIs (_Application Programming Interfaces_)**](/templates/API_Documentation_Template.md) é um processo de deseign e projeto que visa garantir que desenvolvedores internos e externos compreendam como utilizar, integrar e manter uma API de maneira eficiente e segura. A documentação adequada facilita a compreensão dos _endpoints_ da API, dos parâmetros de entrada e saída, dos formatos de dados suportados, das mensagens de erro e de como autenticar e autorizar acessos.
+
+### Melhor Forma de Documentar APIs
+
+1. **Escolha do Formato de Documentação:**
+   - **OpenAPI/Swagger:** É um dos formatos mais populares para documentar APIs RESTful. Ele permite descrever de forma padronizada os endpoints, métodos HTTP suportados, tipos de dados, e muito mais.
+   - **RAML e API Blueprint:** São outras opções que oferecem flexibilidade para documentar APIs com uma sintaxe legível e organizada.
+
+2. **Componentes Essenciais:**
+   - **Descrição Geral:** Forneça uma visão geral da API, incluindo o propósito e o público-alvo.
+   - **Endpoints:** Liste todos os endpoints disponíveis, com seus respectivos métodos HTTP (GET, POST, etc.), URLs, e descrições.
+   - **Parâmetros de Requisição:** Documente todos os parâmetros aceitos, tanto na URL quanto no corpo da requisição.
+   - **Exemplos de Requisição e Resposta:** Inclua exemplos práticos de requisições e respostas para cada endpoint, com exemplos de código.
+   - **Mensagens de Erro:** Detalhe os possíveis códigos de erro, suas causas, e como corrigi-los.
+   - **Autenticação e Autorização:** Especifique como a autenticação (por exemplo, OAuth2, JWT) deve ser feita e quais são os níveis de autorização requeridos para diferentes operações【21†source】【24†source】.
+
+3. **Boas Práticas:**
+   - **Consistência:** Utilize convenções de nomenclatura consistentes para endpoints, parâmetros e descrições.
+   - **Atualização Contínua:** Mantenha a documentação sempre atualizada conforme a API evolui. APIs desatualizadas são uma fonte comum de erros e confusão.
+   - **Automação:** Use ferramentas que permitam gerar documentação automática a partir do código, como Swagger ou Postman, para reduzir o risco de discrepâncias entre código e documentação【23†source】.
+
+4. **Cuidados e Erros Comuns (Bad Smells):**
+   - **Documentação Incompleta:** Falta de exemplos, ausência de explicação clara sobre autenticação ou omissão de casos de erro são problemas recorrentes.
+   - **Falha em Descrever Limitações:** Não documentar limites de taxa (rate limits), tamanhos máximos de payload, ou condições especiais de erro pode levar a problemas em produção.
+   - **Falta de Clareza e Objetividade:** Textos longos, mal organizados ou ambíguos dificultam a compreensão e a implementação correta por outros desenvolvedores【22†source】.
+
+### Conclusão
+
+Uma documentação bem elaborada é crucial para o sucesso e adoção de uma API. Além de facilitar a integração e a manutenção, ela também ajuda a prevenir erros comuns e a garantir que a API seja utilizada de forma segura e eficiente. Seguindo as melhores práticas e evitando os erros comuns, é possível construir uma base sólida para a comunicação e uso da API entre diferentes sistemas e equipes.
 
 ([Voltar ao topo](#padr%C3%B5es-para-projetos-na-if977))
