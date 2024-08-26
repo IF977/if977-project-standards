@@ -406,17 +406,17 @@ O C4 Model é uma abordagem prática e eficaz para documentar a arquitetura de s
    - **Parâmetros de Requisição:** Documente todos os parâmetros aceitos, tanto na URL quanto no corpo da requisição.
    - **Exemplos de Requisição e Resposta:** Inclua exemplos práticos de requisições e respostas para cada endpoint, com exemplos de código.
    - **Mensagens de Erro:** Detalhe os possíveis códigos de erro, suas causas, e como corrigi-los.
-   - **Autenticação e Autorização:** Especifique como a autenticação (por exemplo, OAuth2, JWT) deve ser feita e quais são os níveis de autorização requeridos para diferentes operações【21†source】【24†source】.
+   - **Autenticação e Autorização:** Especifique como a autenticação (por exemplo, OAuth2, JWT) deve ser feita e quais são os níveis de autorização requeridos para diferentes operações.
 
 3. **Boas Práticas:**
    - **Consistência:** Utilize convenções de nomenclatura consistentes para endpoints, parâmetros e descrições.
    - **Atualização Contínua:** Mantenha a documentação sempre atualizada conforme a API evolui. APIs desatualizadas são uma fonte comum de erros e confusão.
-   - **Automação:** Use ferramentas que permitam gerar documentação automática a partir do código, como Swagger ou Postman, para reduzir o risco de discrepâncias entre código e documentação【23†source】.
+   - **Automação:** Use ferramentas que permitam gerar documentação automática a partir do código, como Swagger ou Postman, para reduzir o risco de discrepâncias entre código e documentação.
 
 4. **Cuidados e Erros Comuns (Bad Smells):**
    - **Documentação Incompleta:** Falta de exemplos, ausência de explicação clara sobre autenticação ou omissão de casos de erro são problemas recorrentes.
    - **Falha em Descrever Limitações:** Não documentar limites de taxa (rate limits), tamanhos máximos de payload, ou condições especiais de erro pode levar a problemas em produção.
-   - **Falta de Clareza e Objetividade:** Textos longos, mal organizados ou ambíguos dificultam a compreensão e a implementação correta por outros desenvolvedores【22†source】.
+   - **Falta de Clareza e Objetividade:** Textos longos, mal organizados ou ambíguos dificultam a compreensão e a implementação correta por outros desenvolvedores.
 
 ### Conclusão
 
