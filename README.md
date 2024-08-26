@@ -10,7 +10,7 @@ Repositório com templates para criação e execução do projeto na disciplina 
 6. [Reunião de Postmortem](#reuni%C3%A3o-de-postmortem)
 7. [Pull Requests](#pull-requests)
 8. [Documentação de Arquitetura de Software - C4 Model](#documenta%C3%A7%C3%A3o-de-arquitetura-de-software---c4-model)
-9. Documentação de APIs
+9. [Documentação de APIs](#documenta%C3%A7%C3%A3o-de-apis-application-programming-interfaces)
 
 ## README do repositório do projeto
 
