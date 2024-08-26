@@ -9,6 +9,7 @@ Repositório com templates para criação e execução do projeto na disciplina 
 5. [Cerimônias do Scrum](#cerim%C3%B4nias-do-scrum)
 6. [Reunião de Postmortem](#reuni%C3%A3o-de-postmortem)
 7. [Pull Requests](#pull-requests)
+8. [Documentação de Arquitetura de Software - C4 Model](#documenta%C3%A7%C3%A3o-de-arquitetura-de-software---c4-model)
 
 ## README do repositório do projeto
 
